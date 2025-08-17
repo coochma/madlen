@@ -733,3 +733,10 @@ section,
 .footer .foot-nav a:hover::after {
   width: 100%;
 }
+
+/* колір цін як раніше */
+.menu-card .price,
+.price{
+  color: var(--brand) !important;   /* #e0b073 */
+  font-weight: 700;
+}
