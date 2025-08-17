@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#e0b073"/><stop offset="1" stop-color="#c99245"/></linearGradient></defs>
+  <g transform="translate(10,12)">
+    <rect x="0" y="0" width="76" height="76" rx="18" fill="#1a1917" stroke="url(#g)" stroke-width="2"/>
+    <path d="M52 38c6 0 10 3 10 9s-4 9-10 9h-4" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+    <rect x="12" y="30" width="36" height="16" rx="8" fill="#00000055" stroke="#ffffff33" stroke-width="1"/>
+    <rect x="20" y="50" width="20" height="10" rx="5" fill="url(#g)"/>
+    <path d="M24 22c0 6 6 6 6 12" stroke="#e9d3b1" stroke-opacity=".9" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M34 18c0 8 8 8 8 16" stroke="#e9d3b1" stroke-opacity=".8" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M44 22c0 6 6 6 6 12" stroke="#e9d3b1" stroke-opacity=".7" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <g fill="url(#g)" transform="translate(86,6)">
+      <path d="M6 56V6h6v18l14-18h8l-16 20 16 30h-6L18 36l-2 2v18H6z"/>
+      <path d="M52 6h6v16l10-10h8l-14 14 14 24h-8l-10-16v16h-6V6z"/>
+    </g>
+  </g>
+  <g transform="translate(170,28)">
+    <text x="0" y="0" font-family="Playfair Display, Georgia, serif" font-size="28" font-weight="700" fill="#ffffff">Kaffeehaus</text>
+    <text x="0" y="34" font-family="Inter, system-ui, Arial, sans-serif" font-size="22" font-weight="600" fill="url(#g)">Madlen</text>
+  </g>
+</svg>
